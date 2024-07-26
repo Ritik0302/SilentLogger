@@ -33,11 +33,11 @@ I’ve developed a Python-based keylogger for educational purposes, designed to 
 
 ## Modules Required
 
-pynput: For capturing keyboard input.
-threading: For running the save_keystrokes function in a separate thread. This is part of Python’s standard library, so no installation is needed.
-time: For handling the sleep interval in the save_keystrokes function. This is also part of Python’s standard library, so no installation is needed.
-smtplib: For sending emails via SMTP. This is part of Python’s standard library, so no installation is needed.
-email.mime.multipart, email.mime.text, email.mime.base, and email.encoders: For composing and sending emails. These modules are also part of Python’s standard library, so no installation is needed.
+1.pynput: For capturing keyboard input..
+2.threading: For running the save_keystrokes function in a separate thread. This is part of Python’s standard library, so no installation is needed.
+3.time: For handling the sleep interval in the save_keystrokes function. This is also part of Python’s standard library, so no installation is needed.
+4.smtplib: For sending emails via SMTP. This is part of Python’s standard library, so no installation is needed.
+5.email.mime.multipart, email.mime.text, email.mime.base, and email.encoders: For composing and sending emails. These modules are also part of Python’s standard library, so no installation is needed.
 
 ## Disclaimer
 This tool is intended solely for educational purposes. Unauthorized use of this tool on networks you do not own or have explicit permission to test is illegal and unethical. Use this tool responsibly.
